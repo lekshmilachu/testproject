@@ -1,0 +1,12 @@
+
+.main{
+    background-color: rgb(254,181,130);
+    border-style: groove;
+    width: 50%;
+    height:450px;
+    margin-left: 25%;
+   text-align: center;
+}
+#div{
+    text-align: left ;
+}
